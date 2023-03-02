@@ -1,0 +1,29 @@
+.container{
+    padding: 3px 50px 10px 50px;
+}
+.switch{
+    background-color: #0275d8;
+    color: white;
+    border: 2px solid #0275d8;
+    border-radius: 7px;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.switch:hover, .switch:active{
+    background-color: #5bc0de;
+    color: black;
+}
+
+.styleNav{
+    background-color:#f0f1f1;
+}
+
+.styleSide{
+    background-color:#f0f1f1;
+}
+
+.styleFooter{
+    background-color:#56ffff;
+}
